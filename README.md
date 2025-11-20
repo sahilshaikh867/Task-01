@@ -1,14 +1,3 @@
-<!-- Animated Gradient Text Header -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DevOps%20%26%20Linux%20Practice%20Tasks%20%F0%9F%9A%80&fontAlign=50&fontAlignY=40&color=0:6a11cb,50:2575fc,100:6dd5ed&animation=fadeIn&fontColor=ffffff&desc=Sahil%27s%20Daily%20Tasks%20%7C%20Labs%20%7C%20Assignments%20%7C%20Projects&descAlign=50&descAlignY=65"
-    alt="DevOps & Linux Practice Tasks Banner"
-  />
-</p>
-
----
-
 # 🚀 DevOps & Linux Practice Tasks
 
 A repo where I dump everything I learn — daily tasks, teacher-assigned work, and my own grind.
@@ -114,8 +103,7 @@ This repo grows as *I* grow. 🚀
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&text=Keep%20Learning%20%7C%20Keep%20Shipping%20%E2%9C%8A%EF%B8%8F&fontAlign=50&color=0:16222a,50:314755,100:3a6073&animation=fadeIn&fontColor=ffffff&scale=true"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&text=Keep%20Learning%20%7C%20Keep%20Shipping%20%E2%9C%8A%EF%B8%8F&fontAlign=50&fontSize=18&color=0:16222a,50:314755,100:3a6073&animation=fadeIn&fontColor=ffffff&scale=true"
     alt="Footer Banner"
   />
 </p>
-
