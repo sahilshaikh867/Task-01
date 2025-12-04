@@ -96,5 +96,3 @@ Pipeline = “Modern laptop with SSD — fast, flexible, future-proof.”
 
 If you're learning DevOps seriously → **Pipelines all the way.**
 Freestyle is cute, but pipeline is the real game.
-
----
